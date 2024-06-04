@@ -14,7 +14,7 @@ You can select GitHub and put this repository URL: https://github.com/ericksanti
 
 On the page select Google_Colab.ipynb
 
-Run the first two cells to be sure that you are ready for the workshop! And that's it :)|
+Run the first two cells to be sure that you are ready for the workshop! And that's it :)
 
 ## Locally
 You have to make sure that you have:
@@ -51,4 +51,6 @@ jupyter lab
 ```
 This should run a small web server and redirect you to a localhost page where all the notebooks are. Open [1-Basics_of_LangChain.ipynb](1-Basics_of_LangChain.ipynb) and run the first cells. Everything should be fine.
 
-If something is not runnign feel free to ping us!
+For more information about Jupyter, please see: https://jupyter.org/install
+
+If something is not running feel free to ping us!
